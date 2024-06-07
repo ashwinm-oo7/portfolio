@@ -1,0 +1,16 @@
+/* components/Header.module.css */
+.header {
+    width: 100%;
+    padding: 1rem 2rem;
+    background-color: #282c34;
+    color: white;
+  }
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+  }
+  nav ul li {
+    margin: 0 1rem;
+  }
+  
